@@ -1,9 +1,9 @@
 # POS-DHCHerbal
 
-DHC Herbal Indramayu POS Web-Site
+#DHC Herbal Indramayu POS Web-Site
 
-Bootstrap 3
-CodeIgniter 3 
-Jquery
-JavaScript
-MySQL
+#Bootstrap 3
+#CodeIgniter 3 
+#Jquery
+#JavaScript
+#MySQL
